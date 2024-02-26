@@ -13,7 +13,7 @@
 <!-- - :zap: Более 5 выполненных коммерчиских проектов.
 - :zap: Преподаватель в академии TOP по frontend разработке с сентября 2022г. -->
 
-- :mailbox: Связаться со мной: <br/> <br/> [![Telegram Badge](https://img.shields.io/badge/-gurizhevastemir-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/gurizh) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](gurizhev.astemir@gmail.com)
+- :mailbox: Связаться со мной: <br/> <br/> [![Telegram Badge](https://img.shields.io/badge/-gurizhevastemir-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/gurizh)
 
 ### 💻 Технологии:
 
