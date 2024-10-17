@@ -5,7 +5,7 @@
 </p>
 
 
-- :mailbox: Связаться со мной: <br/> <br/> [![Telegram Badge](https://img.shields.io/badge/-gurizhevastemir-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/gurizh)
+- :mailbox: Связаться со мной: <br/> <br/> [![Telegram Badge](https://img.shields.io/badge/-gurizhevastemir-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AstemirGurizhev)
 
 
 ---
